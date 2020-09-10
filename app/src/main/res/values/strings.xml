@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangingActivitiesWithIntents</string>
+    <string name="second">Second</string>
+    <string name="changingactivities">ChangingActivities</string>
+    <string name="first">First</string>
+    <string name="changing_activities">Changing Activities</string>
+</resources>
